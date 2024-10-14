@@ -16,8 +16,11 @@ I am a Computer Science student with a passion for fullstack web and mobile deve
 ## Projects
 Here are some of the projects I've worked on. Feel free to check them out!
 
-### Trimly
-[trimly-web](https://github.com/borkopp/trimlyweb) : Landing page for my business (react native application that is currently in development) (Next.js + Supabase)
+### Trimly Web
+[trimly](https://trimly.pro) : Landing Page and Dashboard for Barbershop Management / Appointment booking app (Next.js 14 + Supabase)
+
+### Trimly App
+[trimly app](https://trimly.pro) : React Native full-stack application for barbershops with appointment booking functionality (currently in development - check website for more info) (React Native / Expo + Supabase)
 
 ### Twitter Alternative
 [Tweeter](https://github.com/borkopp/tweeter) : Full-Stack Twitter alternative, with Auth, Profile CRUD, Posting and Liking Tweets. (Vue 3 + Express + PostgreSQL)
