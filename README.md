@@ -7,7 +7,10 @@ I am a Computer Science student with a passion for fullstack web and mobile deve
 ## Projects
 Here are some of the projects I've worked on. Feel free to check them out!
 
-### Fadely Webb
+### petbar.mk
+[petbar](https://dogbar.vercel.app) : Macedonian Pet Marketplace (Next.js 15 + Supabase)
+
+### Fadely Web
 [fadely](https://fadely.app) : Landing Page and Dashboard for Barbershop Management / Appointment booking system (Next.js 14 + Supabase)
 
 ### Fadely App
