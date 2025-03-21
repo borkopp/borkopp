@@ -3,7 +3,7 @@
 ## About Me
 I am Borko, a Computer Science student with a passion for fullstack web and mobile development. I enjoy building applications that solve real-world problems and continuously learning new technologies to enhance my skill set.
 
-## 📈 Current Tech-Stack
+## 💻 Current Tech-Stack
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code>
